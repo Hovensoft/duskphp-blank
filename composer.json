@@ -1,0 +1,18 @@
+{
+    "name": "hovensoft/duskphp-blank",
+    "description": "A empty project using duskphp",
+    "type": "project",
+    "license": "GNU General Public License v3.0",
+    "authors": [
+        {
+            "name": "hovensoft",
+            "email": "adinquer@yahoo.com"
+        }
+    ],
+    "require": {
+        "hovensoft/duskphp-core": "0.0.2-alpha"
+    },
+    "suggest": {
+        "middlewares/whoops": "Middleware to use Whoops as error handler."
+    }
+}
