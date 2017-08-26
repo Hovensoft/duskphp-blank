@@ -1,4 +1,7 @@
 # DuskPHP
+[![Build Status](https://travis-ci.org/Hovensoft/duskphp-blank.svg?branch=master)](https://travis-ci.org/Hovensoft/duskphp-blank)
+[![Coverage Status](https://coveralls.io/repos/github/Hovensoft/duskphp-blank/badge.svg?branch=master)](https://coveralls.io/github/Hovensoft/duskphp-blank?branch=master)
+
 A simple PHP framework build with _middleware pattern_
 
 ## LICENSE
